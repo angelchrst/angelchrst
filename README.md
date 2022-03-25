@@ -10,7 +10,12 @@
 - 👩 她
 - 💌 活到老，学到老
 
-### 📈 统计
+### 📫 联系
+<a href = "https://www.linkedin.com/in/angelchrst/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32px" height="32px"></a>
+<a href = "https://www.instagram.com/angelchrst/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px" height="32px"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelchrst&show_icons=true&theme=merko&hide=stars&include_all_commits=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelchrst&layout=compact&theme=merko)](https://github.com/angelchrst/github-readme-stats)
+### 📈 统计
+<img src="https://github-readme-stats.vercel.app/api?username=angelchrst&show_icons=true&theme=merko" alt="github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelchrst&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=merko&layout=compact" alt="languages" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelchrst&theme=merko" alt="github streaks" height="165">
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=angelchrst&label=Profile+views&color=129e00&style=flat-square" alt="angelchrst" /></p>
