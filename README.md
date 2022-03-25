@@ -8,9 +8,9 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 - 👩 她
-- 💌 活到老，学到老
+- 💫 活到老，学到老
 
-### 📫 联系
+### 📧 联系
 <a href = "https://www.linkedin.com/in/angelchrst/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32px" height="32px"></a>
 <a href = "https://www.instagram.com/angelchrst/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px" height="32px"></a>
 
